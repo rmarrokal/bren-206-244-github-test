@@ -1,5 +1,5 @@
 ---
-title: "ESM 206/244 GitHub Testing"
+title: "Emby's ESM 206/244 GitHub Testing"
 output: html_document
 ---
 
@@ -7,17 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: 
+Type your name (or anything else) HERE: Blue Nail Polsish
 
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+yellow <- 14
 
-red <- 15
+purple <- 12
 
-purple <- blue/red
+green <- red/blue
 
 ```
 
